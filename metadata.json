@@ -1,0 +1,6 @@
+{
+  "name": "LifeOS",
+  "description": "All-in-one premium personal discipline, fitness, habits, budgeting, and productivity control center",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Protective Shield of Discipline -->
+    <path
+        android:pathData="M54,22 L82,30 L82,56 C82,72 70,86 54,90 C38,86 26,72 26,56 L26,30 Z"
+        android:strokeColor="#C7FF00"
+        android:strokeWidth="4"
+        android:strokeLineJoin="round"
+        android:fillColor="#15151A" />
+
+    <!-- Core Target Crosshair of Metrics Tracking -->
+    <path
+        android:pathData="M54,40 A12,12 0 1,1 54,64 A12,12 0 1,1 54,40"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="3.5"
+        android:fillColor="#00000000" />
+
+    <path
+        android:pathData="M54,34 L54,42"
+        android:strokeColor="#C7FF00"
+        android:strokeWidth="3"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M54,62 L54,70"
+        android:strokeColor="#C7FF00"
+        android:strokeWidth="3"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M38,52 L46,52"
+        android:strokeColor="#C7FF00"
+        android:strokeWidth="3"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M62,52 L70,52"
+        android:strokeColor="#C7FF00"
+        android:strokeWidth="3"
+        android:strokeLineCap="round" />
+
+    <!-- Center core nucleus of focus -->
+    <path
+        android:pathData="M54,49 A3,3 0 1,1 54,55 A3,3 0 1,1 54,49"
+        android:fillColor="#C7FF00" />
+</vector>
